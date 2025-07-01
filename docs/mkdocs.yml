@@ -10,7 +10,7 @@ use_directory_urls: false
 theme:
   name: material
   language: en
-  custom_dir: 'overrides/' 
+#  custom_dir: 'overrides/' 
   logo: assets/images/Dirac_logo_black-white-negative.png
   favicon: assets/images/Dirac_favicon_logo.svg
   palette:
