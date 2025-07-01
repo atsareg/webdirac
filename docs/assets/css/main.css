@@ -2161,10 +2161,10 @@ input, select, textarea {
 			}
 
 		.homepage {
-			background-image: -moz-linear-gradient(top, rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url("../../images/Computing_center.png");
-			background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url("../../images/Computing_center.png");
-			background-image: -ms-linear-gradient(top, rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url("../../images/Computing_center.png");
-			background-image: linear-gradient(top, rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url("../../images/Computing_center.png");
+			background-image: -moz-linear-gradient(top, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../../images/Computing_center.png");
+			background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../../images/Computing_center.png");
+			background-image: -ms-linear-gradient(top, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../../images/Computing_center.png");
+			background-image: linear-gradient(top, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../../images/Computing_center.png");
 			background-size: cover;
 			background-position: center center;
 			background-attachment: fixed;
