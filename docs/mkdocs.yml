@@ -41,7 +41,7 @@ extra_css:
 
 # Content
 nav:
-  - Home: dirac.md
+  - About: dirac.md
   - Code: code.md
   - Documentation: documentation.md
   - Users: users.md
@@ -55,7 +55,7 @@ extra:
 # Plugins
 plugins:
   - search
-copyright: Copyright &copy; DIRAC Consortium – Maintained by Andrei Tsaregorodtsev
+copyright: Copyright &copy; DIRAC Consortium
 
 # Mkdocs material extensions
 # https://squidfunk.github.io/mkdocs-material/extensions
