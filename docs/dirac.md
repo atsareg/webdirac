@@ -23,4 +23,4 @@ Now, the DIRAC Interware Project provides software and a large set of ready to u
 ![DIRAC Overview](assets/images/DIRAC_overview.jpg)
 
 
-DIRAC is used by multiple large [**scientific collaborations**](users.html). The services based on the DIRAC interware are also provided by several large national and international grid infrastructures.
+DIRAC is used by multiple large [**scientific collaborations**](users.md). The services based on the DIRAC interware are also provided by several large national and international grid infrastructures.
